@@ -1,0 +1,49 @@
+body {
+    margin-top: 24px;
+    background: url(Lightbulb.jpg) no-repeat;
+    background-size: cover;
+    padding: 15px;
+}
+
+.heading {
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 18pt;
+text-align: center;
+}
+
+.subheading {
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 16pt;
+text-align: center;
+}
+
+.navigation {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13pt;
+    text-align: center; 
+    } 
+
+.footer {
+    position: absolute; left: 24px; top: 980px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    } 
+
+    a:visited {
+        color: black;
+      }
+      
+      a:hover {
+        color: grey;
+      }
+
+
+.details {
+  position: absolute; right: 
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 2px solid black;
+  border-radius: 12px;
+  width: 250px;
+  padding: 5px;
+  text-align: left;
+}
